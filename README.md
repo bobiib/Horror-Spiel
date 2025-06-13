@@ -30,7 +30,6 @@ Monster may pass through walls
 
 Some collision detection problems with doors
 
-Minimal menu system (only basic play functionality)
 
 Development Team
 Boris: Programming, quest logic, testing, 3D assets
